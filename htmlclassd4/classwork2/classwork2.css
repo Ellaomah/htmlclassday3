@@ -1,0 +1,41 @@
+/* * {
+  padding: 0%;
+  margin: 0%;
+}
+
+main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+}
+
+header {
+  width: 50vw;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+}
+
+.div {
+  width: 25vw;
+  height: 35vh;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  border: 1px solid black;
+  justify-content: space-between;
+  background-color: rgb(202, 193, 193);
+}
+/* 
+.div {
+  width: 15vw;
+  height: 10vh;
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  border: 1px solid black;
+} */
